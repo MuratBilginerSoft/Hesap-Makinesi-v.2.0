@@ -1,0 +1,86 @@
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe.config
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.pdb
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csprojResolveAssemblyReference.cache
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Form1.resources
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Properties.Resources.resources
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csproj.GenerateResource.Cache
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.exe
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.pdb
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe.config
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.exe
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.pdb
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.pdb
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\mscorlib.dll
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\normidna.nlp
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\normnfc.nlp
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\normnfd.nlp
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\normnfkc.nlp
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\normnfkd.nlp
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Form1.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Properties.Resources.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\C# PROJE DEPOM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csproj.GenerateResource.Cache
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\BÜYÜK PROJELER\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe.config
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\BÜYÜK PROJELER\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.exe
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\BÜYÜK PROJELER\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.pdb
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\BÜYÜK PROJELER\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\BÜYÜK PROJELER\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.pdb
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\BÜYÜK PROJELER\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csprojResolveAssemblyReference.cache
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\BÜYÜK PROJELER\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Form1.resources
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\BÜYÜK PROJELER\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Properties.Resources.resources
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\BÜYÜK PROJELER\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csproj.GenerateResource.Cache
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe.config
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.exe
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.pdb
+D:\x\2 BİLGİNER\3 C#\C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe.config
+D:\x\2 BİLGİNER\3 C#\C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.exe
+D:\x\2 BİLGİNER\3 C#\C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.pdb
+D:\x\2 BİLGİNER\3 C#\C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe
+D:\x\2 BİLGİNER\3 C#\C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.pdb
+D:\x\2 BİLGİNER\3 C#\C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csprojResolveAssemblyReference.cache
+D:\x\2 BİLGİNER\3 C#\C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Form1.resources
+D:\x\2 BİLGİNER\3 C#\C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Properties.Resources.resources
+D:\x\2 BİLGİNER\3 C#\C# PROJELERİM\HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csproj.GenerateResource.Cache
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\8 HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe.config
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.exe
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.pdb
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\8 HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\8 HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.pdb
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csprojResolveAssemblyReference.cache
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Form1.resources
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Properties.Resources.resources
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csproj.GenerateResource.Cache
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\8 HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe.config
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\8 HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe.config
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\8 HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\8 HESAP MAKİNEM\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csprojResolveAssemblyReference.cache
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Form1.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Properties.Resources.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\8 HESAP MAKİNEM\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csproj.GenerateResource.Cache
+E:\03 - Yazılım\05 - Büyük Projeler\11 Gelişmiş Hesap Makinesi v2.0\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe.config
+E:\03 - Yazılım\05 - Büyük Projeler\11 Gelişmiş Hesap Makinesi v2.0\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe
+E:\03 - Yazılım\05 - Büyük Projeler\11 Gelişmiş Hesap Makinesi v2.0\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\11 Gelişmiş Hesap Makinesi v2.0\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\05 - Büyük Projeler\11 Gelişmiş Hesap Makinesi v2.0\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\11 Gelişmiş Hesap Makinesi v2.0\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\11 Gelişmiş Hesap Makinesi v2.0\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csproj.GenerateResource.Cache
+E:\03 - Yazılım\05 - Büyük Projeler\11 Gelişmiş Hesap Makinesi v2.0\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.exe
+E:\03 - Yazılım\05 - Büyük Projeler\11 Gelişmiş Hesap Makinesi v2.0\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Gelişmiş Hesap Makinesi V2.0\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe.config
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Gelişmiş Hesap Makinesi V2.0\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Gelişmiş Hesap Makinesi V2.0\HESAP MAKİNEM\bin\Debug\HESAP MAKİNEM.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Gelişmiş Hesap Makinesi V2.0\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csprojResolveAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Gelişmiş Hesap Makinesi V2.0\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Form1.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Gelişmiş Hesap Makinesi V2.0\HESAP MAKİNEM\obj\Debug\HESAP_MAKİNEM.Properties.Resources.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Gelişmiş Hesap Makinesi V2.0\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Gelişmiş Hesap Makinesi V2.0\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.csproj.CoreCompileInputs.cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Gelişmiş Hesap Makinesi V2.0\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Gelişmiş Hesap Makinesi V2.0\HESAP MAKİNEM\obj\Debug\HESAP MAKİNEM.pdb
